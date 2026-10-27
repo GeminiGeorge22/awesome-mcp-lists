@@ -324,6 +324,7 @@ MCP servers for accessing external services and APIs.
 | 86 | **Dreamwork** | Search jobs, tailor application materials, and track applications; public browsing needs no key | [GitHub](https://github.com/dreamworkhq/mcp) |
 | 86 | **Social Growth Engineers** | Hosted remote MCP server (Streamable HTTP, OAuth) for viral TikTok/Reels videos, hooks, app growth playbooks, articles, reports and App Store data. | [Docs](https://www.socialgrowthengineers.com) |
 | 87 | **Shortimize** | Hosted remote MCP server (Streamable HTTP, API key via Bearer token) for tracking TikTok, Instagram Reels and YouTube Shorts accounts and videos: views, growth and analytics. | [Docs](https://docs.shortimize.com) |
+| 88 | **Sports Odds API (BetRivers, Unibet & 22 more books)** | Live odds from 24 Kambi-powered sportsbooks in one call — BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel, ATG; hosted Streamable HTTP `https://mcp.apify.com?tools=publicrecords/sports-odds-api` (Apify OAuth) | [Store](https://apify.com/publicrecords/sports-odds-api) |
 
 ### AI & Machine Learning
 
